@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">testAtrin</string>
+    <string name="call_seller">تماس با فروشنده</string>
+    <string name="show_caller">نمایش اطلاعات تماس</string>
+    <string name="whole_spec">مشخصات کلی</string>
+    <string name="category">دسته بندی</string>
+    <string name="wron_category">انتخاب اشتباه دسته بندی آگهی باعث رد شدن آگهی می شود.</string>
+    <string name="title">عنوان آگهی</string>
+    <string name="chooose_rught_title">انتخاب عنوان مناسب باعث بهتر دیده شدن آگهی شما می شود.</string>
+    <string name="extra">توضیحات</string>
+    <string name="choose_right_extra">با ارایه‌ی توضیحات کامل به دیده شدن آگهی خودتان کمک کنید.</string>
+    <string name="right_call">در صورت مغایرت با شماره‌ای که ثبت کرده اید صحت سنجی می شود.</string>
+    <string name="call">شماره تماس</string>
+    <string name="create_com">ایجاد آگهی</string>
+    <string name="com_detail">جزییات آگهی</string>
 </resources>
